@@ -1,0 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    cout<<"works fine";
+    return 0;
+}
